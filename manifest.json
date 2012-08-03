@@ -1,0 +1,12 @@
+{
+  "name": "Doc Tab",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Doc anchor goes in doc tab.",
+  "background": {
+    "scripts": ["doctab.js"]
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
